@@ -1,22 +1,16 @@
 # Required packages
 PRODUCT_PACKAGES += \
     CustomDoze \
-    Gallery2 \
     LatinIME \
     Launcher3 \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    messaging \
-    WeatherClient \
-    WellbeingPrebuilt
+    WeatherClient
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
     AOSIPFonts \
     Dirac \
-    OmniStyle \
-    Eleven
-
+    OmniStyle 
+    
 #SubsKey
 PRODUCT_PACKAGES += \
     SubstratumSignature
